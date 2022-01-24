@@ -18,10 +18,6 @@ Here you will find Resource and Couse Syllabus to SkillFlare Flutter conducted b
 
 ---
 
-## Course Syllabus
-
----
-
 ## Resources 
 
 - [I am Rich](./Resources/i_am_rich/)
