@@ -15,8 +15,13 @@ Here you will find Resource and Couse Syllabus to SkillFlare Flutter conducted b
 - Installation :- [click Here](https://docs.flutter.dev/get-started/install)
 - [Official Documentation](https://pub.dev/)
 <br>
+
 ---
+
 ## Course Syllabus
 
 ---
+
 ## Resources 
+
+- [I am Rich](./Resources/i_am_rich/)
